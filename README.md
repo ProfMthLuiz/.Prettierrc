@@ -27,4 +27,7 @@ yarn add --dev --exact prettier
 - <strong>printWidth:</strong> <i>Limite de caracteres por linha.</i>
 
 
+<br>
+<br>
+<strong>**Saiba mais sobre as configurações do Prettier em seu site oficial:</strong> https://prettier.io/docs/en/options
 
