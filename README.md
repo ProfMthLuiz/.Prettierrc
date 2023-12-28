@@ -1,0 +1,2 @@
+# .Prettierrc
+Config prettier
