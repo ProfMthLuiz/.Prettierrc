@@ -8,6 +8,17 @@ ou
 ```
 yarn add --dev --exact prettier
 ```
+ou
+```
+# Vá em Extensions ( CTRL + Shift + C ) no VSCode e pesquise por Prettier ( Você deve instalar o Prettier - Code formatter )
+# Após a instalaçao:
+
+# 1º passo:
+# Aperte na Engrenagem ( lado esquerdo inferior do VSCode ) -> Settings -> Pesquise por Default formatter -> Escolha o prettier
+
+# 2º passo:
+# Pesquiser por Format on save -> Selecione para ativar 
+```
 
 #### Crie um arquivo em seu diretório chamado .Prettierrc
 - Conteúdo do arquivo
